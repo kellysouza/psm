@@ -28,6 +28,13 @@ An application includes:
 -  an electronic signature and date attesting to the accuracy of the
    enrollment information
 
+What is an NPI?
+---------------
+An *NPI* is a National Provider Identifier number.
+You can search NPIs or register for an NPI at
+`NPPES (the National Plan and Provider Enumeration
+System) <https://nppes.cms.hhs.gov>`_.
+
 What are the steps in the enrollment process?
 ---------------------------------------------
 
